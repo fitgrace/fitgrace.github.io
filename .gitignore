@@ -1,0 +1,30 @@
+# System
+.DS_Store
+
+# Editor directories and files
+/.vscode/
+.vscode
+.idea
+
+# Package Manager
+node_modules
+pnpm-lock.yaml
+.pnpm-debug.log*
+
+# Bundle
+coverage
+temp
+dist
+
+# local env files
+*.local
+.eslintcache
+.stylelintcache
+
+# Docs
+grit/.vitepress/cache
+grit/.vitepress/dist
+
+# Log
+*.log
+

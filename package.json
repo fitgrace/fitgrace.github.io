@@ -1,0 +1,15 @@
+{
+  "name": "fitgrace.github.io",
+  "version": "1.0.0",
+  "description": "FitGrace's blog",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev grit",
+    "docs:build": "vitepress build grit",
+    "docs:preview": "vitepress preview grit"
+  },
+  "devDependencies": {
+    "vitepress": "1.0.0-beta.6"
+  }
+}
